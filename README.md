@@ -2,17 +2,19 @@
 
 ## 🇧🇷 Português  
 
-Me chamo **Felipe Carzo**, sou **Cientista de Dados, Analista de Dados e Desenvolvedor**, com forte atuação em **análise de dados, automação e machine learning**.  
-Minha especialidade é **criação de modelos preditivos, dashboards interativos e automação de processos**, utilizando Python e ferramentas modernas de ciência de dados.  
-Atualmente, estou aprimorando meus conhecimentos em **Web3** e explorando aplicações de **Machine Learning para inteligência de negócios e tomada de decisão**.  
+Me chamo **Felipe Carzo**, sou **Cientista de Dados, Analista de Dados e Desenvolvedor**, com foco em **análise de dados, automação e machine learning**.  
+Atualmente, trabalho aplicando ciência de dados para extrair insights e otimizar processos, desenvolvendo **dashboards interativos e modelos preditivos** para análise de métricas.  
+Tenho experiência prática com **Python, SQL, Power BI, Streamlit e ferramentas de visualização**, e estou constantemente aprimorando minhas habilidades em **Machine Learning e Web3**.  
+Minha abordagem é focada em **resolver problemas reais com dados**, buscando sempre aprender e evoluir na área.  
 
 ---
 
 ## 🇬🇧 English  
 
-My name is **Felipe Carzo**, and I am a **Data Scientist, Data Analyst, and Developer** with a strong focus on **data analysis, automation, and machine learning**.  
-I specialize in **building predictive models, interactive dashboards, and process automation**, using Python and modern data science tools.  
-Currently, I’m improving my skills in **Web3** and exploring applications of **Machine Learning for business intelligence and decision-making**.  
+My name is **Felipe Carzo**, and I am a **Data Scientist, Data Analyst, and Developer**, focusing on **data analysis, automation, and machine learning**.  
+Currently, I work with data science to extract insights and optimize processes, developing **interactive dashboards and predictive models** for metric analysis.  
+I have hands-on experience with **Python, SQL, Power BI, Streamlit, and visualization tools**, and I am continuously improving my skills in **Machine Learning and Web3**.  
+My approach is centered on **solving real-world problems with data**, always striving to learn and grow in the field.  
 
 ---
 
