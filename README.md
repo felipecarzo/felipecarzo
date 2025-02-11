@@ -50,9 +50,11 @@ Currently, I’m improving my skills in **Web3** and exploring applications of *
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarzo&layout=compact&theme=dark)  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarzo&layout=compact&theme=dark" />
 </p>
+
 ---
 
 ## 🤝 Connect with me | Conecte-se comigo  
