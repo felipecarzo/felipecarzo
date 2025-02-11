@@ -7,6 +7,8 @@ Atualmente, trabalho aplicando ciência de dados para extrair insights e otimiza
 Tenho experiência prática com **Python, SQL, Power BI, Streamlit e ferramentas de visualização**, e estou constantemente aprimorando minhas habilidades em **Machine Learning e Web3**.  
 Minha abordagem é focada em **resolver problemas reais com dados**, buscando sempre aprender e evoluir na área.  
 
+Além disso, tenho uma sólida experiência em **design para web e mídias sociais, marketing digital e audiovisual**, o que me permite criar **visualizações de dados mais intuitivas e estratégicas**, tornando as análises mais acessíveis e impactantes.  
+
 ---
 
 ## 🇬🇧 English  
@@ -15,6 +17,8 @@ My name is **Felipe Carzo**, and I am a **Data Scientist, Data Analyst, and Deve
 Currently, I work with data science to extract insights and optimize processes, developing **interactive dashboards and predictive models** for metric analysis.  
 I have hands-on experience with **Python, SQL, Power BI, Streamlit, and visualization tools**, and I am continuously improving my skills in **Machine Learning and Web3**.  
 My approach is centered on **solving real-world problems with data**, always striving to learn and grow in the field.  
+
+In addition, I have solid experience in **web and social media design, digital marketing, and audiovisual production**, which helps me create **more intuitive and strategic data visualizations**, making analysis more accessible and impactful.  
 
 ---
 
