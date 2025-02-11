@@ -14,7 +14,7 @@ Além disso, tenho uma sólida experiência em **design para web e mídias socia
 ## 🇬🇧 English  
 
 My name is **Felipe Carzo**, and I am a **Data Scientist, Data Analyst, and Developer**, focusing on **data analysis, automation, and machine learning**.  
-Currently, I work with data science to extract insights and optimize processes, developing **interactive dashboards and predictive models** for metric analysis.  
+Currently working with data science to extract insights and optimize processes, developing **interactive dashboards and predictive models** for metric analysis.  
 I have hands-on experience with **Python, SQL, Power BI, Streamlit, and visualization tools**, and I am continuously improving my skills in **Machine Learning and Web3**.  
 My approach is centered on **solving real-world problems with data**, always striving to learn and grow in the field.  
 
