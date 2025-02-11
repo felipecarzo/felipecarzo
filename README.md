@@ -57,11 +57,21 @@ Currently, I’m improving my skills in **Web3** and exploring applications of *
 
 ## 🤝 Connect with me | Conecte-se comigo  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lfelipecardoso)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/felipecarzo)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lfelipescardoso@gmail.com)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/lfelipecardoso)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/lfelipecardoso" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/felipecarzo" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lfelipescardoso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/lfelipecardoso" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-🚀 *Always exploring new technologies and creating efficient solutions!* | *Sempre explorando novas tecnologias e criando soluções eficientes!*
+🚀 *Sempre explorando novas tecnologias e criando soluções eficientes!* | *Always exploring new technologies and creating efficient solutions!* | 
