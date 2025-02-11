@@ -74,4 +74,4 @@ Currently, I’m improving my skills in **Web3** and exploring applications of *
 
 ---
 
-🚀 *Sempre explorando novas tecnologias e criando soluções eficientes!* | *Always exploring new technologies and creating efficient solutions!* | 
+🚀 *Sempre explorando novas tecnologias e criando soluções eficientes!* | *Always exploring new technologies and creating efficient solutions!* 
